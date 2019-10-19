@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'jeonju_complete';
+    src: url(jeonju_complete8.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'avenir';
+    src: url(avenir.ttf) format('truetype');
+}
+
+body {
+    font-family: avenir;
+}
+
+.mr5 {
+    margin-right: 50px;
+}
+
+.red {
+    color: red;
+}
+
+.center {
+    text-align: center;
+}
+
+.center .red {
+    color: pink;
+}
+
+.blue {
+    color: royalblue;
+}
+
+.jeonju_complete {
+    font-family: 'jeonju_complete';
+    src: url(jeonju_complete8.ttf) format('truetype')
+}
